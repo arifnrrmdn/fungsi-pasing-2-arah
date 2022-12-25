@@ -5,7 +5,7 @@
 void tukar(int *a, int *b);
 
 //deklarasi variabel
-int x = 5, y = 10;
+int x = 5, y = 10; 
 int main()
 {    
     system("cls");
